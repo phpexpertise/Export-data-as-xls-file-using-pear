@@ -1,5 +1,5 @@
 # Export-data-as-xls-format-using-pear
-<h2>Export mysql table as xls format using PEAR library in PDO</h2>
+Export mysql table as xls format using PEAR library in PDO
 
 Download mysql table as XLS file format with PEAR library support and PDO.
 
